@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DyegoVila
 - 👀 I’m interested in Java, Python, CSS, HTML, C
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning GIT and GITHUB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dyegovilanovaa@gmail.com
 
