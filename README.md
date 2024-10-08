@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DyegoVila
-- 👀 I’m interested in Java, Python, CSS, HTML, C++, PHP
+- 👀 I’m interested in learn more about front end 
 - 🌱 I’m currently learning GIT and GITHUB
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dyegovilanovaa@gmail.com
